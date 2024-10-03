@@ -4,19 +4,10 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 OBJECTIVES
 
-• Provide insights to Revenue Team in Hospitality Domain.
-• Create the metrics according to the metric list.
+Provide insights to Revenue Team in Hospitality Domain.
+Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
-
-
-DATASET
-
-dim_date
-dim_hotels
-dim_rooms
-fact_aggregated_bookings
-fact_bookings
 
 CREATE METRICS
 
